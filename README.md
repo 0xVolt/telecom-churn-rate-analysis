@@ -1,2 +1,3 @@
-# telecom-churn-rate-analysis
-This repository contains analysis of the Telecom Churn Dataset, exploring customer behavior patterns and predicting churn using machine learning techniques.
+# Telecom Churn Rate Analysis
+
+This repository contains my analysis of the Telecom Churn Dataset. In this analysis, I explore the factors that contribute to customer churn in the telecom industry using various machine learning techniques. The dataset includes various features such as customer demographics, call data, and customer service interactions. Through exploratory data analysis and visualization, I identify patterns and relationships between these features and customer churn. I then train and evaluate various machine learning models to predict customer churn and identify the most important predictors. In addition to the code and results, this repository includes a detailed report outlining the methodology and findings of my analysis.
