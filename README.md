@@ -1,8 +1,8 @@
 # Telecom Churn Rate Analysis
 
-## Table of Content- [Telecom Churn Rate Analysis](#telecom-churn-rate-analysis)
+## Table of Contents
 - [Telecom Churn Rate Analysis](#telecom-churn-rate-analysis)
-  - [Table of Content- Telecom Churn Rate Analysis](#table-of-content--telecom-churn-rate-analysis)
+  - [Table of Contents](#table-of-contents)
   - [About this Repository](#about-this-repository)
   - [References](#references)
 
