@@ -1,5 +1,5 @@
-# Add path to datasets
-data/
+# Add path to assets
+assets/
 
 # Add venv
 TelecomChurnAnalysis/
